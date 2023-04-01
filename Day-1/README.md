@@ -20,8 +20,8 @@ version control system so I can do this
 from my computer or any device. No
 excuses for not coding from anywhere!
 ```
-+ On the next line add I am feeling with an emoji of your choice to illustrate how you're feeling about the challenge.
++ On the next line add `I am feeling` with an emoji of your choice to illustrate how you're feeling about the challenge.
 
-+ Add one more line to your output You can follow my progress at github.com/@ and add in your github username. This will be a great way of maintaining accountability for yourself!
++ Add one more line to your output `You can follow my progress at github.com/@` and add in your github username. This will be a great way of maintaining accountability for yourself!
 
 + `Run` your program.
