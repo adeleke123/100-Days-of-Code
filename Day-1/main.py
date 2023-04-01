@@ -8,5 +8,5 @@ I'll be using GitHub, an amazing
 version control system so I can do this
 from my computer or any device. No
 excuses for not coding from anywhere!
-I am feeling excited í¸„
+I am feeling excited! ðŸ˜„
 You can follow my progress at github.com/BakareMuideen""")
