@@ -9,7 +9,7 @@ Write code that does the following:
 + Print out a full sentence that includes the user's favorite things.
 + Give them a positive affirmation at the end - tell them they rock at doing something!
 
-#### Example (go to the end for the solution...but no peeking):
+#### Example:
 ```
 Getting to know you!
 You are
